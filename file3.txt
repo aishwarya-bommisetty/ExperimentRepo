@@ -1,1 +1,4 @@
 this is file3.
+abcdefg
+third line in b2
+
